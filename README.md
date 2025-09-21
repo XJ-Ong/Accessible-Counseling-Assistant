@@ -1,2 +1,2 @@
 # Accessible-Counseling-Assistant
-e
+AWS Powered Great Malaysia AI Hackathon 2025 project (AtomicQuantum)
